@@ -1,1 +1,1 @@
-#Bot de Discord para meter en servidores
+# Bot de Discord para meter en servidores
